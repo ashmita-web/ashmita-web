@@ -3,7 +3,7 @@
 
 - Computer Science Engineering(Mac) undergrad at **Netaji Subhas University of Technology.**
 
-- Currently learning **Blockchain.**
+- Currently learning **Cryptography.**
 
 - My LinkedIn profile: [www.linkedin.com/in/ashmita-luthra-01b91b203](www.linkedin.com/in/ashmita-luthra-01b91b203)
 
