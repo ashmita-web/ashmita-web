@@ -5,7 +5,7 @@
 
 - Currently learning **Cryptography.**
 
-- My LinkedIn profile: [www.linkedin.com/in/ashmita-luthra-01b91b203](www.linkedin.com/in/ashmita-luthra-01b91b203)
+- My LinkedIn profile: https://www.linkedin.com/in/ashmita-luthra-01b91b203/
 
 - How to reach me **ashmitaluthra@gmail.com**
 
