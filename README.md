@@ -1,17 +1,16 @@
 <h1 align="center">Hey, I'm Ashmita Luthra</h1>
 <h3 align="center">Dedicated coder delving into the boundless opportunities of technology</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmita-web&label=Profile%20views&color=0e75b6&style=flat" alt="ashmita-web" /> </p>
 
 - Computer Science Engineering(Mac) undergrad at **Netaji Subhas University of Technology.**
 
-- Currently learning **Cryptography.**
-
 - My LinkedIn profile: https://www.linkedin.com/in/ashmita-luthra-01b91b203/
 
-- How to reach me **ashmitaluthra@gmail.com**
+- How to reach me: **ashmitaluthra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ashmita luthra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashmita luthra" height="30" width="40" /></a>
+<a href="https://dev.to/ashmitaluthra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashmita luthra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashmita-luthra-01b91b203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmita-luthra-01b91b203" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ashmitaluthra33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ashmitaluthra33" height="30" width="40" /></a>
 </p>
@@ -21,4 +20,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashmita-web&show_icons=true&locale=en&layout=compact" alt="ashmita-web" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashmita-web&" alt="ashmita-web" /></p>
+<!-- GitHub Stats -->
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashmita-web&show_icons=true&count_private=true&hide=issues&hide_title=true&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=4c71f2" alt="GitHub Stats" />
+</p>
+
