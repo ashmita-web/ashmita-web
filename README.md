@@ -4,9 +4,9 @@
 
 - Computer Science Engineering(Mac) undergrad at **Netaji Subhas University of Technology.**
 
-- My LinkedIn profile: https://www.linkedin.com/in/ashmita-luthra-01b91b203/
+- LinkedIn profile: https://www.linkedin.com/in/ashmita-luthra-01b91b203/
 
-- How to reach me: **ashmitaluthra@gmail.com**
+- Email: **ashmitaluthra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
