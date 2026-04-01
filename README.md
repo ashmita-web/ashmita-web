@@ -14,10 +14,10 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Computer Science Engineering (Mac) undergrad at **Netaji Subhas University of Technology**
-- 🚀 Interested in full-stack development and real-time systems
-- 🧠 Love building products that people can actually use
-- 📫 Reach me at: **ashmitaluthra33@gmail.com**
+- Computer Science Engineering (Mac) undergrad at **Netaji Subhas University of Technology**
+- Interested in full-stack development and real-time systems
+- Love building products that people can actually use
+- Reach me at: **ashmitaluthra33@gmail.com**
 
 ---
 
