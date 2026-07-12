@@ -77,7 +77,7 @@
 </p>
 
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmita-web&hide_border=true" />
@@ -85,14 +85,14 @@
 
 
 
-### 📌 Profile Summary
+### Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashmita-web&theme=default" />
 </p>
 
 
-### 🧠 Coding Platforms
+### Coding Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -101,7 +101,7 @@
 
 ---
 
-### ⚡ Currently
+### Currently
 
 - Building real-time web apps  
 - Exploring backend architecture  
