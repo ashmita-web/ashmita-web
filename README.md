@@ -15,7 +15,6 @@
 ### 👩‍💻 About Me
 
 - Computer Science Engineering (Mac) undergrad at **Netaji Subhas University of Technology**
-- Interested in full-stack development and real-time systems
 - Love building products that people can actually use
 - Reach me at: **ashmitaluthra33@gmail.com**
 
@@ -98,14 +97,6 @@
   <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   <img src="https://img.shields.io/badge/Problem%20Solving-Daily-blue?style=for-the-badge"/>
 </p>
-
----
-
-### Currently
-
-- Building real-time web apps  
-- Exploring backend architecture  
-- Working on production-ready full-stack projects  
 
 ---
 
